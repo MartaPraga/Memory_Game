@@ -1,0 +1,11 @@
+.Game {
+  display: flex;
+  flex-direction: row;
+
+
+  &__extensions {
+    display: flex;
+    flex-direction: column;
+  }
+
+}
